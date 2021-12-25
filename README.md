@@ -4,7 +4,9 @@ Uses tkinter and pytube libraries to initiate a user interface based application
 This is how the user interface looks:
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81075927/132038966-1daa68d5-5b2a-4212-ac0a-5e0bf7ce44d5.png">
+</p>
 
 
-<img align="center" src="https://user-images.githubusercontent.com/81075927/132038966-1daa68d5-5b2a-4212-ac0a-5e0bf7ce44d5.png">
 
